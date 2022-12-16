@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <spring.version>4.0.2.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <solr.version>4.7.0</solr.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <solr.index.dir>/tmp/solr</solr.index.dir>
